@@ -21,6 +21,8 @@ Average reading score
 % passing reading (the percentage of students who passed reading)
 % overall passing (the percentage of students who passed math AND reading)
 
+![image](https://user-images.githubusercontent.com/111756299/199051586-5b976732-ce04-47eb-ad24-0020ac852726.png)
+
 
 # School Summary
 Create a DataFrame that summarizes key metrics about each school, including the following:
