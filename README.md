@@ -36,6 +36,8 @@ Average reading score
 % passing reading (the percentage of students who passed reading)
 % overall passing (the percentage of students who passed math AND reading)
 
+![image](https://user-images.githubusercontent.com/111756299/199044480-62079c28-d376-43e0-a718-ae29614dc94c.png)
+
 
 # Highest-Performing Schools (by % Overall Passing)
 Create a DataFrame that highlights the top 5 performing schools based on % Overall Passing. Include the following metrics:
