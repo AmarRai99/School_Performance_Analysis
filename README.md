@@ -1,4 +1,4 @@
-# pandas-challenge
+# Pandas-challenge
 Assignment 4
 
 # Background
