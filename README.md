@@ -8,14 +8,14 @@ Analyze the district-wide standardized test results. Access has been given to ev
 # District Summary
 Created a high-level snapshot, in a DataFrame, of the district's key metrics, including the following:
 
-Total schools
-Total students
-Total budget
-Average math score
-Average reading score
-% passing math (the percentage of students who passed math)
-% passing reading (the percentage of students who passed reading)
-% overall passing (the percentage of students who passed math AND reading)
+• Total schools
+• Total students
+• Total budget
+• Average math score
+• Average reading score
+• % passing math (the percentage of students who passed math)
+• % passing reading (the percentage of students who passed reading)
+• % overall passing (the percentage of students who passed math AND reading)
 
 ![image](https://user-images.githubusercontent.com/111756299/199051586-5b976732-ce04-47eb-ad24-0020ac852726.png)
 
@@ -23,16 +23,16 @@ Average reading score
 # School Summary
 Created a DataFrame that summarizes key metrics about each school, including the following:
 
-School name
-School type
-Total students
-Total school budget
-Per student budget
-Average math score
-Average reading score
-% passing math (the percentage of students who passed math)
-% passing reading (the percentage of students who passed reading)
-% overall passing (the percentage of students who passed math AND reading)
+• School name
+• School type
+• Total students
+• Total school budget
+• Per student budget
+• Average math score
+• Average reading score
+• % passing math (the percentage of students who passed math)
+• % passing reading (the percentage of students who passed reading)
+• % overall passing (the percentage of students who passed math AND reading)
 
 ![image](https://user-images.githubusercontent.com/111756299/199044480-62079c28-d376-43e0-a718-ae29614dc94c.png)
 
@@ -40,16 +40,16 @@ Average reading score
 # Highest-Performing Schools (by % Overall Passing)
 Created a DataFrame that highlights the top 5 performing schools based on % Overall Passing. Include the following metrics:
 
-School name
-School type
-Total students
-Total school budget
-Per student budget
-Average math score
-Average reading score
-% passing math (the percentage of students who passed math)
-% passing reading (the percentage of students who passed reading)
-% overall passing (the percentage of students who passed math AND reading)
+• School name
+• School type
+• Total students
+• Total school budget
+• Per student budget
+• Average math score
+• Average reading score
+• % passing math (the percentage of students who passed math)
+• % passing reading (the percentage of students who passed reading)
+• % overall passing (the percentage of students who passed math AND reading)
 
 ![image](https://user-images.githubusercontent.com/111756299/199048193-87b3643f-2c44-4453-bcd4-2f7dae027965.png)
 
@@ -57,16 +57,16 @@ Average reading score
 # Lowest-Performing Schools (by % Overall Passing)
 Created a DataFrame that highlights the bottom 5 performing schools based on % Overall Passing. Include the following metrics:
 
-School name
-School type
-Total students
-Total school budget
-Per student budget
-Average math score
-Average reading score
-% passing math (the percentage of students who passed math)
-% passing reading (the percentage of students who passed reading)
-% overall passing (the percentage of students who passed math AND reading)
+• School name
+• School type
+• Total students
+• Total school budget
+• Per student budget
+• Average math score
+• Average reading score
+• % passing math (the percentage of students who passed math)
+• % passing reading (the percentage of students who passed reading)
+• % overall passing (the percentage of students who passed math AND reading)
 
 ![image](https://user-images.githubusercontent.com/111756299/199049365-648533af-c682-423d-9732-836f1633a09a.png)
 
@@ -90,10 +90,11 @@ Created a table that breaks down school performance based on average spending ra
 
 
 # Average math score
-Average reading score
-% passing math (the percentage of students who passed math)
-% passing reading (the percentage of students who passed reading)
-% overall passing (the percentage of students who passed math AND reading)
+
+• Average reading score
+• % passing math (the percentage of students who passed math)
+• % passing reading (the percentage of students who passed reading)
+• % overall passing (the percentage of students who passed math AND reading)
 
 ![image](https://user-images.githubusercontent.com/111756299/199050545-0ceca929-daea-4b5e-aa62-6583e99cd334.png)
 
